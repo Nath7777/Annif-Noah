@@ -435,16 +435,15 @@ div#sea {
 }
 /* Centrer les éléments */
 #gift-message {
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Kaushan Script', cursive;
-    color: #fff;
-    margin-top: 50px;
-    display: none; /* Caché par défaut, apparaît après animation */
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Kaushan Script', cursive;
+  color: #fff;
+  margin-top: 50px;
+  display: none; /* Caché par défaut, apparaît après animation */
 }
 
 .icons {
-    text-align: center;
-    margin-top: 20px;
+  text-align: center;
+  margin-top: 20px;
 }
-

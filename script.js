@@ -301,4 +301,3 @@ function reveal() {
     // Afficher le message après l'animation
     document.getElementById('gift-message').style.display = 'block';
 }
-
